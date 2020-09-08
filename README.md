@@ -1,12 +1,12 @@
-![Shreya's Header](/images/me.png)
+![Shreya's Header](/images/me.PNG)
 
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Shreya!
 <br>
-<a href="https://twitter.com/ShreyaGokhe"><img height="30" src="/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/shreyeahhh"><img height="30" src="/instagram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shreya-gokhe/"><img height="30" src="https://github.com/shreyagokhe/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/ShreyaGokhe"><img height="30" src="images/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/shreyeeahhh"><img height="30" src="images/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shreya-gokhe/"><img height="30" src="/images/linkedin.PNG?raw=true"></a>
 </p>
 
 
