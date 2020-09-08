@@ -1,4 +1,4 @@
-### [![Shreya's Header](https://raw.githubusercontent.com/shreyagokhe/shreyagokhe/images/img.jpg "Header")](https://some-url.dev/)
+### [![Shreya's Header](https://raw.githubusercontent.com/shreyagokhe/shreyagokhe/img.jpg "Header")](https://some-url.dev/)
 
 <h1 align='center'> Hi! :wave:</h1>
 <!--
