@@ -1,4 +1,5 @@
-![Shreya's Header](/images/me.PNG)
+![Shreya's Header]<img height="100" src="images/twitter.png?raw=true">
+*(/images/me.PNG)
 
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
