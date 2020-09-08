@@ -1,6 +1,5 @@
 <img height="200" src="images/me.PNG?raw=true">
-<table>
-    <tr>
+ <tr>
         <td align="right" style="vertical-align: top;">
 <h1> Hi! :wave:</h1>
 I'm Shreya!
@@ -13,4 +12,4 @@ I'm Shreya!
 <a href="https://www.linkedin.com/in/shreya-gokhe/"><img height="30" src="/images/linkedin.PNG?raw=true"></a>
       </td>
       </tr>
-</table>
+
