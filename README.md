@@ -1,4 +1,4 @@
-![Shreya's Header](/images/img.jpg =250x250)
+![Shreya's Header](/images/img.jpg) <!-- .element height="50%" width="50%" -->
 
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
