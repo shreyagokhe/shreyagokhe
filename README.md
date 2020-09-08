@@ -1,9 +1,9 @@
 <img height="200" src="https://github.com/shreyagokhe/shreyagokhe/raw/master/images/me.PNG">
         
 <h1> Hi! :wave:</h1>
-**Welcome to my Github profile**         
+## Welcome to my Github profile        
 I'm Shreya!
-         > The best is yet to come!
+> The best is yet to come!
          
   <br>
   <br>
