@@ -2,7 +2,10 @@
  <tr>
         <td align="right" style="vertical-align: top;">
 <h1> Hi! :wave:</h1>
+**Welcome to my Github profile**         
 I'm Shreya!
+         > The best is yet to come!
+         
   </td>
 <br>
   <br>
