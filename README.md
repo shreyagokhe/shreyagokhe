@@ -3,7 +3,7 @@
         <td align="right" style="vertical-align: top;">
 <h1> Hi! :wave:</h1>
 I'm Shreya!
-  <\td>
+  </td>
 <br>
   <br>
     <td>
