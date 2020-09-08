@@ -1,4 +1,4 @@
-![Shreya's Header](/images/img.jpg width="200" height="400" )
+![Shreya's Header](/images/img.jpg = 200X400)
 
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
