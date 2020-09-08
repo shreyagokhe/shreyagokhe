@@ -1,5 +1,5 @@
-![Shreya's Header]<img height="100" src="images/twitter.png?raw=true">
-*(/images/me.PNG)
+<img height="100" src="images/me.PNG?raw=true">
+
 
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
