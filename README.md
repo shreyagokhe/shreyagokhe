@@ -1,4 +1,4 @@
-<img height="200" src="/images/me.PNG?raw=true">
+<img height="200" src="shreyagokhe/shreyagokhe/images/me.PNG?raw=true">
  <tr>
         <td align="right" style="vertical-align: top;">
 <h1> Hi! :wave:</h1>
