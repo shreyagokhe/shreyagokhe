@@ -1,4 +1,4 @@
-[![Shreya's Header](https://raw.github.com/shreyagokhe/shreyagokhe/img.jpg)]
+[![Shreya's Header](https://raw.github.com/shreyagokhe/shreyagokhe/raw/master/img.jpg)]
 
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
