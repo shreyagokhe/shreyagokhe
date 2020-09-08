@@ -1,5 +1,5 @@
 <img height="200" src="https://github.com/shreyagokhe/shreyagokhe/raw/master/images/me.PNG">
-## Welcome to my Github profile         
+       
 <h1> Hi! :wave:</h1>
        
 I'm Shreya!
