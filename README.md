@@ -1,4 +1,4 @@
-<img height="200" src="/images/me.PNG">
+<img height="200" src="https://github.com/shreyagokhe/shreyagokhe/raw/master/images/me.PNG">
  <tr>
         <td align="right" style="vertical-align: top;">
 <h1> Hi! :wave:</h1>
