@@ -1,4 +1,4 @@
-![Shreya's Header](/images/img.jpg)
+![Shreya's Header](/images/me.png)
 
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
