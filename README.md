@@ -1,4 +1,4 @@
-<img height="200" src="https://github.com/shreyagokhe/shreyagokhe/raw/master/images/IMG_2434.JPG">
+<img height="200" src="https://github.com/shreyagokhe/shreyagokhe/raw/master/images/PXL_20231231_184157937_Original.jpeg">
        
 <h1> Hi! :wave:</h1>
        
